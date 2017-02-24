@@ -21,3 +21,4 @@
 
 
 [Oracle官方文档](http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html)
+[The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
